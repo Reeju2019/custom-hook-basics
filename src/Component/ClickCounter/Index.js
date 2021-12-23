@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import useClickCount from "../../Hooks/useClickCount";
 import useCountStorage from "../../Hooks/useCountStorage";
 import "./style.css";
